@@ -1,2 +1,4 @@
 # My-Portfolio
-Thie repository contains my portfolio page
+This repository contains my portfolio page
+
+Screenshot : https://github.com/nehasangeetajha/My-Portfolio/blob/master/portfolio.JPG
